@@ -1,0 +1,7 @@
+#SIMPLE MONITORING SCRIPT#
+##########################
+
+Write your Hosts in the hosts file
+with following syntax:
+<hostname> <ip>
+
